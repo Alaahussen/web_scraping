@@ -18,12 +18,6 @@ pip install selenium
 ### 2. Download the WebDriver
 Selenium requires a WebDriver to automate a browser. You need to download the driver that matches your browser:
 
-- **Chrome**: [Download ChromeDriver](https://sites.google.com/chromium.org/driver/)
-- **Firefox**: [Download GeckoDriver](https://github.com/mozilla/geckodriver/releases)
-- **Edge**: [Download EdgeDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-
-Once downloaded, place it in a directory and add it to your system PATH.
-
 ---
 
 ## Basic Example: Scraping a Webpage
